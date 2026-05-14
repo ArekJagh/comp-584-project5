@@ -1,4 +1,4 @@
-const API_KEY = '83531ede-e9b7-4967-a82f-6633c95a36fb';
+const API_KEY = '53efc203-fc3a-48bd-a0cd-3811439ecbd0';
 
 const playerInput = document.getElementById('playerInput');
 const searchBtn   = document.getElementById('searchBtn');
